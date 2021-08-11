@@ -174,7 +174,7 @@ input[type="text"] {
   display: inline-block;
   margin-left: 40%;
   margin-top:60px;
-  width: 20%;
+  min-width: 20%;
   height: 35px;
   border-radius: 10px;
   background: #e4ebf6;
